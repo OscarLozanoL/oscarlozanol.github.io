@@ -1,0 +1,37 @@
+{
+  [
+    {
+      "name": "Chapultepec",
+      "address": "Chapultepec sn",
+      "hours": "9:00 - 18:00",
+      "price": "0",
+      "image": "",
+      "visitedOn": "",
+      "review": "",
+      "photgraph": "",
+      "map": ""
+    },
+    {
+      "name": "MUAC",
+      "address": "CU",
+      "hours": "10:00 - 15:00",
+      "price": "10",
+      "image": "",
+      "visitedOn": "",
+      "review": "",
+      "photgraph": "",
+      "map": ""
+    },
+    {
+      "name": "MUAC2",
+      "address": "CU",
+      "hours": "10:00 - 15:00",
+      "price": "10",
+      "image": "",
+      "visitedOn": "01/04/2024",
+      "review": "4",
+      "photgraph": "",
+      "map": ""
+    }
+  ]
+}
