@@ -6,7 +6,7 @@ $(document).ready(function () {
     var newjson = $.getJSON("https://oscarlozanol.github.io/resources/museums.json")
         .done(function (data) {
             console.log(data)
-        });
+        };
 
 });
 
