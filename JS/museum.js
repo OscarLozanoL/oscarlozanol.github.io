@@ -3,7 +3,7 @@ $(document).ready(function () {
     $("#generar").on("click", function () {
         alert("Handler for `click` called.");
     });
-    $.getJSON("https://bioinfobot.github.io/data/2017-05.json")
+    $.getJSON("https://oscarlozanol.github.io/resources/museums.json")
         .done(function (data) {
             console.log(data)
         });
