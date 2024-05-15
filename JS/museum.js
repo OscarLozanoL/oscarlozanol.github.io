@@ -6,7 +6,7 @@ $(document).ready(function () {
             .done(function (newjson) {
                 console.log(newjson)
             });
-        console.log(newjson.ToString())
+        console.log(newjson)
     });
     
 

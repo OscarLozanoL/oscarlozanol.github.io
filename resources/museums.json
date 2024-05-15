@@ -1,6 +1,5 @@
 {
-  [
-    {
+    "1":{
       "name": "Chapultepec",
       "address": "Chapultepec sn",
       "hours": "9:00 - 18:00",
@@ -11,7 +10,7 @@
       "photgraph": "",
       "map": ""
     },
-    {
+    "2":{
       "name": "MUAC",
       "address": "CU",
       "hours": "10:00 - 15:00",
@@ -22,7 +21,7 @@
       "photgraph": "",
       "map": ""
     },
-    {
+    "3":{
       "name": "MUAC2",
       "address": "CU",
       "hours": "10:00 - 15:00",
@@ -33,5 +32,4 @@
       "photgraph": "",
       "map": ""
     }
-  ]
-}
+  }
